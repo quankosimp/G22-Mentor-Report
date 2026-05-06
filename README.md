@@ -11,9 +11,7 @@ Mục tiêu hiện tại:
 - Giảm tải chấm thủ công cho giảng viên thông qua cơ chế escalation.
 
 ## Link sản phẩm
-- Demo local: `http://localhost:5173`
-- API local: `http://localhost:8000`
-- Production URL: *(bổ sung sau)*
+- Production URL: https://a20-app-022-production.up.railway.app/
 
 Tài khoản test:
 - Teacher
