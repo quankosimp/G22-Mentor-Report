@@ -87,7 +87,8 @@ Trong giai đoạn hiện tại, hệ thống đã hoàn thiện các chức nă
 - Tích hợp mô hình OpenAI cho các bước cần LLM (contract extraction, hint generation, routing fallback).
 - Có pipeline ingest kiến thức vào **Pinecone** (phục vụ mở rộng RAG cho gợi ý theo giáo trình).
 
-> TODO: Thêm ảnh kiến trúc hệ thống / docker services / database schema tại đây.
+
+![Docker Container](Image_4.png)
 
 ---
 
