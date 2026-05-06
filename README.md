@@ -58,7 +58,11 @@ Trong giai đoạn hiện tại, hệ thống đã hoàn thiện các chức nă
 - Trả về **evidence chain** để minh bạch quá trình xác minh từng bước/tool.
 - Tích hợp dữ liệu môn học, đề bài, bài nộp mẫu và seed demo để chạy end-to-end.
 
-> TODO: Thêm ảnh giao diện Landing/Login/Dashboard/Solve/Review Queue tại đây.
+![Dashboard sinh viên](Image_1.png)
+
+![Trang giải bài theo từng bước](Image_2.png)
+
+![Lịch sử luyện tập](Image_3.png)
 
 ---
 
